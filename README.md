@@ -1,11 +1,10 @@
 <img src="./images/cat.gif" height="400" width="1000" />
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+I'm+Suman+Das+from+India!;" />
+<h1 align="center">👋 I'm Suman Das from India!</h1>
 
-</h1>
-<br><h3>Passionate full-stack developer from India dedicated to mastering frontend skills for seamless user experiences and delivering cutting-edge solutions. I like to workout, code but most importantly, squishing CATS 🐈</h3>
+</h2>
+<br><h3>Passionate full-stack developer from India dedicated to mastering frontend skills for seamless user experiences and delivering cutting-edge solutions. I like to workout, code but most importantly, squishing CATS 🐈</h2>
 
 ###
 
