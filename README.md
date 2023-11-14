@@ -136,5 +136,5 @@
   <img src="https://streak-stats.demolab.com?user=sum0nn&locale=en&mode=weekly&theme=gotham&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<h4 text-align: center;>🐍 NOM NOM NOM! 🐍</h4>
-![snake gif](https://github.com/sum0nn/sum0nn/blob/output/github-contribution-grid-snake.svg)
+/*<h4 text-align: center;>🐍 NOM NOM NOM! 🐍</h4>
+![snake gif](https://github.com/sum0nn/sum0nn/blob/output/github-contribution-grid-snake.svg)*/
