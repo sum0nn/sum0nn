@@ -1,4 +1,5 @@
-<img src="./images/catto.gif" alt="MasterHead" />
+<img src="./images/catto.gif" alt="MasterHead" height="400" width="1000" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suman+Das+from+India!;" />
