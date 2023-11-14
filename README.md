@@ -137,3 +137,4 @@
 </div>
 
 <h4 text-align: center;>🐍 NOM NOM NOM! 🐍</h4>
+![snake gif](https://github.com/sum0nn/sum0nn/blob/output/github-contribution-grid-snake.gif)
