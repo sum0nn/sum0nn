@@ -1,6 +1,5 @@
 <img src="./images/cat.gif" height="400" width="1000" />
 
-
 <h1 align="center">👋 I'm Suman Das from India!</h1>
 
 </h2>
