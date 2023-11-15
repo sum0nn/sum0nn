@@ -22,7 +22,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sum0nn.sum0nn&"  />
 </div>
 
-### TOOLS
+### TOOLS:
 
 <div align="left">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="35" alt="vscode logo"  />
@@ -41,7 +41,7 @@
 
 <img align="right" height="188" src="https://camo.githubusercontent.com/2dd1067767801115c15cbd8f7901069fbf358826da33d82bed7d8d55cea76dc8/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f3535335a47437a59485351485869464b41382f67697068792e676966"  />
 
-### SKILLS
+### SKILLS:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -120,7 +120,7 @@
 
 <br clear="both">
 
-### SOCIALS
+### SOCIALS:
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -137,8 +137,7 @@
 
 <br clear="both">
 
-## GITHUB STATS
-
+## GITHUB STATS:
 <div style="float: left; width: 50%;">
   <a href="http://www.github.com/sum0nn"><img src="https://github-readme-stats.vercel.app/api?username=sum0nn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sum0nn's GitHub stats" height="150px" /></a>
 </div>
@@ -151,8 +150,9 @@
   <a href="https://github.com/sum0nn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sum0nn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="150px" /></a>
 </div>
 
-###
-## NOM NOM 🐍
+<br clear="both">
+
+## NOM NOM NOM NOM! 🐍
 
 <img src="https://raw.githubusercontent.com/sum0nn/sum0nn/output/snake.svg" alt="Snake animation" />
 
