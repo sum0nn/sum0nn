@@ -11,7 +11,7 @@
 * 🚀  I'm currently working on [MY PORTFOLIO WEBSITE](http://github.com/sum0nn/Portfolio-TESTING)
 * 🧠  I'm learning React, Node, Django, Firebase, C++, Python and more.
 * 🤝  I'm open to collaborating on FULL-STACK development, with a FOCUS on both FRONTEND and BACKEND expertise.
-* ⚡  Continuously enhancing my FRONTEND proficiency and did I mention my liking for squishing cats? 🐈
+* ⚡  Continuously enhancing my frontend proficiency. Oh, did I mention my fondness for squishing cats? 🐈
 
 
 ###
