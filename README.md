@@ -1,9 +1,10 @@
 <img src="./images/cat.gif" height="400" width="1000" />
 
-<h1 align="center"><img src="./images/hand.gif" /> I'm Suman Das from India!</h1>
+<div>
+<h1 align="center">Hello! 👋🏼 I'm Suman Das from India!</h1>
+</div>
 
-</h2>
-<br><h3>Passionate full-stack developer from India dedicated to mastering frontend skills for seamless user experiences and delivering cutting-edge solutions. I like to workout, code but most importantly, squishing CATS 🐈</h2>
+<br><h3>Passionate full-stack developer from India dedicated to mastering frontend skills for seamless user experiences and delivering cutting-edge solutions. I like to workout, code but most importantly, squishing CATS 🐈</h3>
 
 ###
 
