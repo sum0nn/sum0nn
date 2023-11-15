@@ -22,6 +22,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sum0nn.sum0nn&"  />
 </div>
 
+###
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sum0nn" alt="sum0nn" /></a> </p>
+
+###
+
 ### TOOLS:
 
 <div align="left">
