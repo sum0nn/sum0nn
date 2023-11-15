@@ -151,8 +151,8 @@
   <a href="https://github.com/sum0nn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sum0nn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="150px" /></a>
 </div>
 
-
-### NOM NOM 🐍
+###
+## NOM NOM 🐍
 
 <img src="https://raw.githubusercontent.com/sum0nn/sum0nn/output/snake.svg" alt="Snake animation" />
 
