@@ -6,6 +6,14 @@
 
 <br><h3>Passionate full-stack developer from India dedicated to mastering frontend skills for seamless user experiences and delivering cutting-edge solutions. I like to workout, code but most importantly, squishing CATS 🐈</h3>
 
+* 🌍  I'm based in India.
+* ✉️  You can contact me at [sumandas069110@gmail.com](mailto:sumandas069110@gmail.com)
+* 🚀  I'm currently working on [MY PORTFOLIO WEBSITE](http://github.com/sum0nn/Portfolio-TESTING)
+* 🧠  I'm learning React, Node, Django, Firebase, C++, Python and more.
+* 🤝  I'm open to collaborating on FULL-STACK development, with a FOCUS on both FRONTEND and BACKEND expertise.
+* ⚡  Continuously enhancing my FRONTEND proficiency and did I mention my liking for squishing cats? 🐈
+
+
 ###
 
 <br clear="both">
