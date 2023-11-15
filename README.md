@@ -1,7 +1,7 @@
 <img src="./images/cat.gif" height="400" width="1000" />
 
 <div>
-<h1 align="center">Hello! 👋🏼 I'm Suman Das from India!</h1>
+<h1 align="center">Hello! 👋🏼 I'm Suman Das</h1>
 </div>
 
 <br><h3>Passionate full-stack developer from India dedicated to mastering frontend skills for seamless user experiences and delivering cutting-edge solutions. I like to workout, code but most importantly, squishing CATS 🐈</h3>
