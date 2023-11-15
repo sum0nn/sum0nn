@@ -22,7 +22,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sum0nn.sum0nn&"  />
 </div>
 
-###
+### TOOLS
 
 <div align="left">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="35" alt="vscode logo"  />
@@ -36,13 +36,12 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="35" alt="pycharm logo"  />
 </div>
 
-###
 
 <br clear="both">
 
 <img align="right" height="188" src="https://camo.githubusercontent.com/2dd1067767801115c15cbd8f7901069fbf358826da33d82bed7d8d55cea76dc8/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f3535335a47437a59485351485869464b41382f67697068792e676966"  />
 
-###
+### SKILLS
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -118,10 +117,10 @@
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
 
-###
 
 <br clear="both">
 
+### SOCIALS
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -135,21 +134,25 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
 
-###
-
-###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sum0nn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sum0nn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=nightowl&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=sum0nn&locale=en&mode=weekly&theme=gotham&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+## GITHUB STATS
+
+<div style="float: left; width: 50%;">
+  <a href="http://www.github.com/sum0nn"><img src="https://github-readme-stats.vercel.app/api?username=sum0nn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sum0nn's GitHub stats" height="150px" /></a>
 </div>
 
-###
+<div style="float: right; width: 50%;">
+  <a href="http://www.github.com/sum0nn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sum0nn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150px" /></a>
+</div>
 
-###
+<div style="clear: both; text-align: center;">
+  <a href="https://github.com/sum0nn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sum0nn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="150px" /></a>
+</div>
+
+
+### NOM NOM 🐍
 
 <img src="https://raw.githubusercontent.com/sum0nn/sum0nn/output/snake.svg" alt="Snake animation" />
 
