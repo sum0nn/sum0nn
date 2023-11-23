@@ -4,7 +4,7 @@
 <h1 align="center">Hello! 👋🏼 I'm Suman Das</h1>
 </div>
 
-<br><h3>Passionate full-stack developer from India dedicated to mastering frontend skills for seamless user experiences and delivering cutting-edge solutions. I like to workout, code but most importantly, squishing CATS 🐈</h3>
+<br><h3>Passionate full-stack developer from India dedicated to mastering FRONTEND & BACKEND skills for seamless user experiences and delivering cutting-edge solutions. I like to workout, code but most importantly, squishing CATS 🐈</h3>
 
 * 🌍  I'm based in India.
 * ✉️  You can contact me at [sumandas069110@gmail.com](mailto:sumandas069110@gmail.com)
