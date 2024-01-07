@@ -92,8 +92,6 @@
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="13" />
-  <img src="https://cdn.simpleicons.org/atom/66595C" height="40" alt="atom logo"  />
-  <img width="13" />
   <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="materialui logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
