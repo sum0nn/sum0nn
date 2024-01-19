@@ -8,7 +8,7 @@
 
 * 🌍  I'm based in India.
 * ✉️  You can contact me at [sumandas069110@gmail.com](mailto:sumandas069110@gmail.com)
-* 🚀  I'm currently working on [MY PORTFOLIO WEBSITE]([http://github.com/sum0nn/Portfolio-TESTING](https://github.com/sum0nn/portfolio-Testing))
+* 🚀  I'm currently working on [MY PORTFOLIO WEBSITE]([http://github.com/sum0nn/Portfolio-TESTING](https://github.com/sum0nn/portfolio-Testing)])
 * 🧠  I'm learning React, Node, Django, Firebase, C++, Python and more.
 * 🤝  I'm open to collaborating on FULL-STACK development, with a FOCUS on both FRONTEND and BACKEND expertise.
 * ⚡  Continuously enhancing my FRONTEND proficiency. Oh, did I mention my fondness for squishing cats? 🐈
